@@ -1,0 +1,1 @@
+// Filtering for aggregated scores by month

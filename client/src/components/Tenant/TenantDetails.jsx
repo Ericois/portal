@@ -1,0 +1,1 @@
+// Comapny page for a business owner to view details about their tenancy in the business portal
